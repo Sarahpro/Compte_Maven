@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"fr.uvsq.poo.compte","l":"Compte"},{"p":"fr.uvsq.poo.compte","l":"exceptionMontantNegatif"},{"p":"fr.uvsq.poo.compte","l":"exceptionSoldeInsuffisant"},{"p":"fr.uvsq.poo.compte","l":"Main"}]
